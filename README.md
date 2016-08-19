@@ -3,6 +3,7 @@
 ONE LINE CODE, to save or load your data that you want.
 
 HOW TO USE：
+
 (1) SAVE: 
 DJSharedObject.localSave("SO_Name", "Obj_PropertyName", Value);							
 
